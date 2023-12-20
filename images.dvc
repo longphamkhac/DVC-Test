@@ -1,0 +1,6 @@
+outs:
+- md5: 888c28670c6ff80c59ac8967bc7a82d9.dir
+  size: 8075946
+  nfiles: 13
+  hash: md5
+  path: images
